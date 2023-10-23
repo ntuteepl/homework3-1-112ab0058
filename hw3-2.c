@@ -17,6 +17,6 @@ int main() {
         num += 1; // 需要多一辆车
     }
 
-    printf("%d\n", num);
+    printf("%d", num);
     return 0;
 }

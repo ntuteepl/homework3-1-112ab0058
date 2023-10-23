@@ -34,8 +34,10 @@ int main()
         }
         else if((a1>a2&&a2>b2)){
             printf("%d",bb);
+        }
         else if((a1>a2&&a2>b2&&a3>b3)){
             printf("%d",bb);
+        }
         else if((a1>a2&&a2>b2&&a3>b3&&a4>b4)){
             printf("%d",bb);
         }

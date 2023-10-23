@@ -24,6 +24,5 @@ int main()
         }else{
             num+=1;
         }
-    }
-    printf("%d",num);
-
+    }printf("%d",num);
+}
